@@ -16,7 +16,7 @@ body {
 	color: white;
 }
 
-header .container-title {
+header .c-title {
 	display: flex;
 	flex-direction: row;
 	align-items: center;
@@ -44,7 +44,7 @@ header nav a:hover {
 .filme-principal {
 	font-size: 16px;
 	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%),
-		url("../img/capa-house.jpg");
+		url("../img/cat-city.jpg");
 
 	height: 400px;
 	background-size: cover;
@@ -103,6 +103,70 @@ header nav a:hover {
 	cursor: pointer;
 }
 
+.close {
+	position: absolute;
+	right: 15px;
+	top: 15px;
+	z-index: 999;
+	font-size: 2rem;
+	font-weight: normal;
+	color: #fff;
+	opacity: 1;
+}
+.close:hover {
+	position: absolute;
+	right: 15px;
+	top: 15px;
+	z-index: 999;
+	font-size: 2rem;
+	font-weight: bold;
+	color: #f00;
+	opacity: 0.75;
+}
+
 .carrosel-filmes {
 	margin-top: 5px;
+}
+
+/* MODAL */
+#modalSelect .modal-content {
+	background-color: #141414cc;
+	border-radius: 25px;
+	border-color: black;
+	padding: 15px;
+	text-align: justify;
+	justify-content: center;
+}
+.model-gato-box-img {
+	display: flex;
+	justify-content: center;
+}
+#modal-gato-img {
+	align-self: center;
+	height: 50vh;
+}
+#modal-gato-descricao {
+	margin-top: 10px;
+	padding: 1rem;
+}
+
+/* Video */
+#myModal .modal-dialog {
+	max-width: 800px;
+	margin: 30px auto;
+}
+#myModal .modal-body {
+	position: relative;
+	margin: -1px;
+	padding: 0px;
+}
+#myModal .close {
+	position: absolute;
+	right: -30px;
+	top: 0;
+	z-index: 999;
+	font-size: 2rem;
+	font-weight: normal;
+	color: #fff;
+	opacity: 1;
 }

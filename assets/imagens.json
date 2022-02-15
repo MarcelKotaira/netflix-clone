@@ -1,0 +1,76 @@
+{
+	"items": [
+		{
+			"img": "img/mini1.jpg",
+			"alt": "Image 1",
+			"nome": "American Shorth",
+			"descricao": "O gato americano de pelo curto ou american shorthair é originário da América do Norte, embora venha dos gatos europeus que viajaram com os colonizadores. Estes felinos podem ter padrões muito diversos, no entanto se saiba que mais de 70% são gatos tigrados. O padrão mais comum é o marmorizado, com cores muito variadas: marrom, preto, azul, prata, creme, vermelho, etc. Sem dúvida, é uma das mais admiradas raças de gatos tigrados."
+		},
+		{
+			"img": "img/mini2.jpg",
+			"alt": "Image 2",
+			"nome": "Bobtail Americano",
+			"descricao": "O bobtail americano é uma das raças mais conhecidas de gatos tigrados, devido, sobretudo, à sua pequena cauda. Pode ter pelo semi-longo ou curto, com padrões e cores diferentes. Entretanto, todos os gatos tigrados, com listras, manchas ou com aspecto de mármore são muito apreciados, pois lhes confere um aspecto selvagem."
+		},
+		{
+			"img": "img/mini3.jpg",
+			"alt": "Image 3",
+			"nome": "Bengal",
+			"descricao": "O gato bengal é uma das raças mais especiais de gatos tigrados. É um híbrido entre o gato doméstico e o gato leopardo (Prionailurus bengalensis), um tipo de felino selvagem do sudeste asiático. Sua aparência é muito semelhante à de seu parente selvagem, com manchas marrons circundadas por linhas pretas que estão dispostas sobre um fundo mais claro."
+		},
+		{
+			"img": "img/mini4.jpg",
+			"alt": "Image 4",
+			"nome": "Gato Europeu",
+			"descricao": "De todas as raças de gatos tigrados, o gato europeu é o mais conhecido. Pode ter muitos padrões de pelagem e cores, mas o malhado é o mais comum. Ao contrário dos outros tipos de gatos, a aparência selvagem do europeu não foi selecionada, pois surgiu espontaneamente. E sua seleção completamente natural se deve graças à domesticação do gato-selvagem-africano (Felis lybica). Esta espécie se aproximou dos assentamentos humanos da Mesopotâmia para caçar roedores. Pouco a pouco, conseguiu convencê-los de que era um bom aliado"
+		},
+		{
+			"img": "img/mini5.jpg",
+			"alt": "Image 5",
+			"nome": "Sokoke",
+			"descricao": "O gato sokoke é a mais desconhecida de todas as raças de gatos tigrados. É um felino nativo do Parque Nacional Arabuko-Sokoke, no Quênia. Embora tenha origem nos gatos domésticos que ali vivem, suas populações se adaptaram à natureza, onde adquiriram uma coloração única. O gato sokoke tem um padrão de mármore preto sobre um fundo claro, o que lhe permite se camuflar melhor na selva. Assim, ele evita carnívoros maiores e persegue suas presas de forma mais eficaz. Atualmente, alguns criadores estão tentando aumentar sua diversidade genética a fim de preservar sua linhagem."
+		},
+		{
+			"img": "img/mini6.jpg",
+			"alt": "Image 6",
+			"nome": "Ragamuffin",
+			"descricao": "Os gatos ragamuffins são enormes felinos com uma aparência particular e exótica que chegaram por acaso e conquistaram metade do mundo desde seu surgimento. São gatos pra lá de adoráveis, sem falar que são lindos."
+		},
+		{
+			"img": "img/mini7.jpg",
+			"alt": "Image 7",
+			"nome": "Manx",
+			"descricao": "O gato manx surgiu como consequência da chegada do gato europeu à Ilha de Man. Ali surgiu a mutação que o fez perder sua cauda e que fez dele um gato muito popular. Como seus ancestrais, ele pode ser de cores diferentes e ter padrões variados. Entretanto, é mais comum encontrá-lo com a pelagem que o caracteriza como um gato tigrado."
+		},
+		{
+			"img": "img/mini8.jpg",
+			"alt": "Image 8",
+			"nome": "Mau Egipcio",
+			"descricao": "Embora ainda haja dúvidas sobre sua origem, acredita-se que esta raça vem dos mesmos gatos que eram adorados no antigo Egito. O gato mau egípcio chegou à Europa e aos Estados Unidos em meados do século XX, quando este gato tigrado deixou todos surpresos com seu padrão de listras e manchas escuras sobre um fundo cinza, bronze ou prata. Destaca-se a parte inferior mais branca de seu corpo, assim como a ponta preta de sua cauda"
+		},
+		{
+			"img": "img/mini9.jpg",
+			"alt": "Image 9",
+			"nome": "Ocicat",
+			"descricao": "Embora chamado de gato tigrado, o ocicat se parece muito mais com o leopardo, Leopardus pardalis. Sua seleção começou de maneira acidental, pois seu criador queria alcançar uma raça de aparência selvagem. Começando com um gato abissínio e um siamês, a estadunidense Virginia Daly continuou cruzando raças até conseguir um gato com pontos escuros sobre um fundo claro."
+		},
+		{
+			"img": "img/mini10.jpg",
+			"alt": "Image 10",
+			"nome": "Pixie Bob",
+			"descricao": "O gato pixie-bob é outro gato tigrado da nossa lista e foi selecionado nos Estados Unidos durante os anos 1980. Assim, foi obtido um felino de tamanho médio com uma cauda muito reduzida, que pode ter pelos curtos ou longos. É sempre de tons marrons e é coberto por manchas escuras, atenuadas e pequenas. Sua garganta e barriga são mais esbranquiçadas e podem ter tufos pretos nas pontas das orelhas, como linces."
+		},
+		{
+			"img": "img/mini11.jpg",
+			"alt": "Image 11",
+			"nome": "Siamês",
+			"descricao": "Gato siamês é uma raça de gato oriental, caracterizada por um corpo elegante e esguio e uma cabeça marcadamente triangular. Pode ser confundido com a raça de gatos Thai que tem origem na raça siamesa mas apresenta uma morfologia bem distinta — O gato Thai é semelhante ao siamês antigo."
+		},
+		{
+			"img": "img/mini12.jpg",
+			"alt": "Image 12",
+			"nome": "Toyger",
+			"descricao": "Se existe uma raça de gato semelhante ao tigre, é a raça toyger, que significa \"tigre de brinquedo\". Este gato tem padrões e cores idênticos aos dos maiores felinos do mundo. Isso se deve a uma cuidadosa seleção que teve lugar na Califórnia, nos Estados Unidos, no final do século XX. Alguns criadores cruzaram o gato de Bengala com gatos tigrados, obtendo listras verticais no corpo e circulares na cabeça, ambas sobre um fundo laranja brilhante."
+		}
+	]
+}
